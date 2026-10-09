@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis",
+  "description": "Sci-Fi AI Voice Assistant in Odia powered by Gemini with intent execution",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
